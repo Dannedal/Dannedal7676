@@ -1,0 +1,26 @@
+{
+  "name": "Willie Manning",
+  "age": 57,
+  "address": {
+    "street": "Ebbo Pike",
+    "city": "Hagugren",
+    "state": "AK",
+    "zip": "09319"
+  },
+  "contact": {
+    "phone": "(444) 954-7529",
+    "servicePhone": "800868144"
+  },
+  "birthday": "1982-12-24T00:55:22.149Z",
+  "ip": "196.187.50.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Uwabo ohhe aro pecetlof tumidul kavda udigan tiv kospozba tuwa ib vamu jutumwod ac en eji. Wozibip verub jarla viif so viv cowuti hinidwi no liprecup da duw galzujsad petaw puana bumir ipewikaw. Tiipbi zecen fu dih ralsat umu nilam zena kupudu ho vul jordokda. Gulobpo fafna ecisu kocduvma na hupik no eg zu fo lori rodfam zofo.",
+    "bio": "Ragi guvkev lihoeva eb epoco tihafnar tu mamgiwi towipa hedfuw sidali meketi. Mepajwa judse ivconalu lifogelo osjurot tajwo duomdo nebihe notwogako ewe asa ezi moslupani sutna sopifveg. Weiw podlamuv arupoc gunbeli hoba botida ahsohoza na ure as bab vid uto."
+  },
+  "apiKey": "29eea33bae670cdff6660441b12cfbde21b012cb7b9fbc89f2fd8aea43a8722b",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
