@@ -1,0 +1,26 @@
+{
+  "name": "Frank Day",
+  "age": 47,
+  "address": {
+    "street": "Geipo Way",
+    "city": "Hagicni",
+    "state": "VA",
+    "zip": "29304"
+  },
+  "contact": {
+    "phone": "(961) 827-7325",
+    "servicePhone": "800797348"
+  },
+  "birthday": "2000-12-13T04:55:52.621Z",
+  "ip": "61.79.25.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Fubjew ud guzin bacago udohan zot kaig isica hefi of jeh nuh ecet. Wu dammif sam hisu cul fuhwudo iri viba vivop gul zami otejapjep ovopukkag. Dowem ro gimoib limijefo riru pekar gevfe inotemid ruit unmifuf zu kikdek adihavip sumtijti lemkenba. To kil mu wujaccow pamva govwu za ih zuavcuz ziejge tojabgih wuoru ni.",
+    "bio": "Ozizi se ablibne mijemuz zuci zugeni olbu feut ujozohniz bes ni pet efcug dajej hatpopze iftid jaopi. Ave rorni coszi odamob umves pauco cozir tok ud cubiwzu ibalwi beagekuf avautor. Pejacba conilha eg duna kevva usehwi labo rozibouda wij moh etfo ad loj inuuziuke sa radebba. Vaentiv raifapi iripi sozorbek gewhocpo jihiltoj lowuk sa nawkabfe wa otrioji baeje bepit tiesoub geca elawsac."
+  },
+  "apiKey": "a8a5fa31ddf90acffd320c4961516fa3cfe9105c4cf7ab11f26db3fc9b0216b1",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
