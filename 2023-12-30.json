@@ -1,0 +1,26 @@
+{
+  "name": "Emily Flowers",
+  "age": 50,
+  "address": {
+    "street": "Wampo Square",
+    "city": "Deloke",
+    "state": "SD",
+    "zip": "66598"
+  },
+  "contact": {
+    "phone": "(438) 564-3420",
+    "servicePhone": "800723416"
+  },
+  "birthday": "1972-10-06T01:22:14.031Z",
+  "ip": "213.17.88.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Dolif tis wajjutow sanjun fubnuwbar mud bufwajwos hon varhirnil fi zawuhoapu puzikses hecaf vehepfed donotamav jevsa. Ru mab ledi to set alo joisuac tuwkak bav fab bi udzod pu nopewe bedaw po zogit fap. Cunna lopab fowijip arsa ipeged vetarmu vozedno lusezwa liluir ultu hotusoto fuaj egtib. Goncokbu baddirmag ducojtu sepfi zaj ciz rezehumu roni nowe selrambu dabketpuz fu seswiza bimhop tiiz gisbinah. Sumu sezvi mouv ithebu tofo sawcid fuw kabileg je ihvi wuvjipub lura ot dahi bu.",
+    "bio": "Necug taccuci udwediw juzuz ko ijonoso ut fetuv zin vupus pejgamnum puhnaar. Udeizrid hibponsug enpaohu lal giruoc ro ajeha oja walu ikum vami emainbu se. Ihwolnen has di julurono releltud wu zeubo gu dor vacivfu urekaz gi lug. Rifeapu kad biz ma uler ho fokbowatu fozozmih wevmakud zun lanna nijrere narfo pewwiuvi. Fi fopag tisbevnin zic irnujig ameag li agop lenolu ejitih uko vibikkec ezkifav ted sulfolig vijudabaf."
+  },
+  "apiKey": "d33c3660fcf9942c191533df7d3d12b801e366a2332368eb0334e4819d9bce6e",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
