@@ -1,0 +1,26 @@
+{
+  "name": "Flora Simon",
+  "age": 35,
+  "address": {
+    "street": "Wisdu Square",
+    "city": "Osakiba",
+    "state": "NH",
+    "zip": "95469"
+  },
+  "contact": {
+    "phone": "(345) 538-2471",
+    "servicePhone": "800563332"
+  },
+  "birthday": "1987-12-07T02:36:19.859Z",
+  "ip": "128.96.239.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Wapuk cej puki siwij fon puhetgor cof ho cit cabci asedez efi. Uni vebomju pikza idenip zapili niilca rujuzdo pew uhuguk ki sebkadnot asieka pog na. Eldoar he filvivo cip mov iluduv nid dalat si iwsiva noknen papmok. Mav hat mi levtivla od fiaseugu pacpetfap suohu nuaf cajilgo vi pegvadot. Vi etwuv os veksij ilbup fazme wi avzi okij davoragag emiivho ijhivfok ekebukin rudepik puenidaz pewarhom vecobfa puptif. Puzfuwi ak topjodon hijehuz wa giemi bohashu es di janig conilbo bedfojhas okfos guzfojpev rovwekdu.",
+    "bio": "Hifuwin vu seabeik koujovim toghap rohoz erse ulezuso vovgep ziroju uc hergeeva. Vufsaci sip rijo iwaakouni ge zuriwsu bon fusig toghe sucvevil duimfek razega feson gej nuumepu buzuegu. Tisdam wone ob nefpi afuw wi fiwzodapo soh kikvitza tobeskuv sobge difpuviv ciw cibus re."
+  },
+  "apiKey": "10ac7197c9e68f0cb8700b21667cbbf631cdca10570f9747b80ecd561cfad511",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
