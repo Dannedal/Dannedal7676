@@ -1,0 +1,26 @@
+{
+  "name": "Steven Hubbard",
+  "age": 29,
+  "address": {
+    "street": "Nove Avenue",
+    "city": "Recbibap",
+    "state": "MS",
+    "zip": "36762"
+  },
+  "contact": {
+    "phone": "(378) 221-8734",
+    "servicePhone": "800451844"
+  },
+  "birthday": "1975-10-20T22:22:32.918Z",
+  "ip": "56.197.143.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Pivded kadawib ebazuz ewo vudguvev utaremus siulo fum gitagvu pir hiaw tis mesujij suha otawom wozik. We zitofi lemzaru cejo riam zuwekit ho je zujnicih mep ih wabura bog biwota. Cul gegfu sugtaheg pi ledgi sakecfac dafkijem he have cepzaso pimi ma ul opisihut uhmur kufufogak omo. Pi iwowuwi erfa kemruw ono dil ivejow iwasogat se umewimav rikifi hor rakbeag tob hiroj kaheppu kakihoca. Jecajetu ankuvu du fazramfav zumi une dez hejhuok hibahili hed nocwikuge vafco ogzopmih. Lut vevez ev joj motva ci birse le foh babezgik enupava jicelcu sealked jusdov akgalle.",
+    "bio": "Paeh mi cenuznun mihraw tipwag pituzgar bo naklargi pe lengiel bek pemcemoh. Ig unpe kew rer betkof nukul rajagica buv fic guwtuodu tuwvum do beugim tippun fulule pato. Ot wozecih tauklu ud ugojasez mewopece fuwal ica pumikujuz larje diadewi odu sab cuhod jub vuspuej piehumiz."
+  },
+  "apiKey": "a97e908053be6f6ec0081ca1776c0bc59707ff987dcd5cdff82794b81fa5ba99",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
