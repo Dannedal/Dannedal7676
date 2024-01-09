@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Delgado",
+  "age": 24,
+  "address": {
+    "street": "Veic River",
+    "city": "Tusvijfor",
+    "state": "ND",
+    "zip": "45075"
+  },
+  "contact": {
+    "phone": "(632) 200-9689",
+    "servicePhone": "800311693"
+  },
+  "birthday": "1983-05-19T17:44:20.645Z",
+  "ip": "91.239.166.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Meiw ni de tordew boopete oga sahmezet hejsukeh de kah sun zemeek ap fewve pugife wo gune wugagne. Cahsacug rafapti ape cu navmasul jacazji vujfonjil tifeb dehedvug tal neha vub je onri wiruv itufur vuzu ga. Reti tazlen pa ve wuh puwdic ol bapnec remi sorifmo jedtufjaw fivterep ucifuka.",
+    "bio": "Itnij dafaul umihov nugijoda wa idhij dazfe ezoma fug usa bagnifan ewauwo za eppin ogufip. Me lefjim kighepor tonevas gififnu debi zema jamwozu vevuvu juj nepjiwput nat fo wuepi ibpasik aw cuvpumu ne. Abekaw mujjubpa puhjoiku ge magdo ehuzu ofi gu vecbi hodog su revaog ezozear nousisub ekre. Joenazi iftidibi vuezu giwvo juwufhek odusi pezuzduw bupejde jekuwnid afti kudvukjet zopozu zo."
+  },
+  "apiKey": "1e6e43075ad52a66c7174149fbfddfe11ddd7335c3419768713e7a11f6402537",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
