@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Flowers",
+  "age": 52,
+  "address": {
+    "street": "Bohave Grove",
+    "city": "Guhibna",
+    "state": "NE",
+    "zip": "69737"
+  },
+  "contact": {
+    "phone": "(629) 678-4577",
+    "servicePhone": "800573395"
+  },
+  "birthday": "2004-07-02T13:49:23.110Z",
+  "ip": "116.88.166.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma kototjuc wa wod wu ev do jeblop netokvug niczub uc mibhupka vufi. Sih ujpu vurima fov sawembil bedlumezu degrachum te jibhe boh vumaeb gugiluv unercus. Bapumdur caubo kekguwdel ga epdil jeh ozuki degneaba mena anumelzec awuafe runiut lu lavir noril muk vorfe.",
+    "bio": "Haetuzek lo hivsij sazosgi ro pivhammin eg evuviji bike kanulap lufeznom bijhe jodhifko are god sulamju. Ha kaokave vazucduj ozehafoc ja zubu wetegu fefaw keh be jeve uba topdiw va lole. Liguvi suhod rovhid poonoziz jofneovo ripih rajba daz zuva manvooc fara kuwew."
+  },
+  "apiKey": "8e0cb31ec1b77226d3c8ce4286be30a32aa88bb1a68dd8a53e61b2075035f3ed",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
