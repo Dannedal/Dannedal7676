@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Huff",
+  "age": 37,
+  "address": {
+    "street": "Tuih Boulevard",
+    "city": "Pikrazdib",
+    "state": "IL",
+    "zip": "31016"
+  },
+  "contact": {
+    "phone": "(500) 912-7053",
+    "servicePhone": "800914277"
+  },
+  "birthday": "1980-12-01T05:04:16.125Z",
+  "ip": "130.154.145.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Wedme li pijrazad zevkak ula nugegefih oje tepiceala zidoname balto ac nefu af paibaro. Giro uk dul couvje radpiv jif os ekceh sisdafad col ga bu zobloh ote zot soac bitunaf cutinho. Tu ojefeifa to cos huv gu hitnofo naiw bowifusi fotmutve tici omikaf rabser ejnij cu ka ceac. Vebvi rajiro gulufuf akdip muruw nurev dag olkovi kod ucuwur lutumri ebufagu ruhdonti capizu tic uheig zotetve. Wez repfoso kavhobnaf wi jase rufe kofomge ede emo diwetlej wus anfumec reje fa. Gog ro moawa filjizi hijvusmad caisowo ropetol jilcanca vopuc fa fijzun tome igim fub wodele.",
+    "bio": "Ugegode caev ke sitora ehol uzihoje gobutfi gis femisno focsilcil de fabedtos ehimo ive. Feiki agse hi leito wofina enta enegog fecavu odwabuku kapoike alu ke ro revaweim kiltin teni ju. Jurziur aw uni zodokoc moimke zemi ja tihe luwza hehgijpam ca wanog jafsihe ajurli ne uresuk. Neze jise za zammobfij gikemot mesaog talabgol kew wotlo modoj sidih pockukoli rin. Gej gehga sohsutnik ti nec hebew dusoluw ibteluf labcije awciwpu purjefi dag jetaro ulwiko vej cidu. Gi erihidi ziud larozo uk jen kihwib pu gon jicu jofe junanozug uc jedcib sippivez va dit. Kuhgacez ducsifuf niok de imogeivu age minop nefpi givune elo ov rafdezho bikuvvo dusojgu hokletgu naj."
+  },
+  "apiKey": "3324ccc64d6ff2eaa901393b6f8d907b2ccb49890536393065e7c45da06c0b02",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
