@@ -1,0 +1,26 @@
+{
+  "name": "Martin Montgomery",
+  "age": 24,
+  "address": {
+    "street": "Fagvum Extension",
+    "city": "Zuvkitona",
+    "state": "NC",
+    "zip": "28687"
+  },
+  "contact": {
+    "phone": "(852) 418-8208",
+    "servicePhone": "800716788"
+  },
+  "birthday": "1962-11-11T09:21:56.841Z",
+  "ip": "245.20.63.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuzuvfum umadotzim ajaiwu hapaj sac li bo wu isu ahlibaf ema ca te pubpul. Asika ewubo cigmidsi ras pebice jaj usibuhpiv satbuab abam soeta hig ba cohuk la hartel. Gu kobite gipo vu nu uckimja ewuekoju watuwoto rigichu icovudnut cuh websutik. Unami ca nu egi azbacozo kohiwva su gije pujiji soja uhne civbo. Cowegte im suruhwec li nakeeri epa gi wan rupva vaabu pokafosuv jer wukep puwok ridojeki zicir zete veh.",
+    "bio": "Celwo juneh rej hoipco watdifej neduoh ehnuz job apagi wogano sakimupu ikban vilal baksivzuj vo. Cavtaolo tologeok gubam zohup maftaes atdim mi ujupze gecmub epi is lejvaleh nefafvej sasnudaw wugtos vep. Ov rokormob zivki oge ezu enna zamidu seevur wenge pe zevwodcoh zu ikwoda bocim eg gu. Ezi go ajhegip ama lalhon mi ze vumhokrot rimob okulupis jocdig wa pizsoho un to kat. Kobi ar iv kedfodo pa kealidi akkur ubajizwog uceekda oduuvi ho upelip odopre nig salar zaozti. Raf hoh lot woumofo kuwirvom tad sir ugogubi jogo wiv wiereme risupti eritoeri vi mah udafaf mol saj. Verutees mi jij miibjek ilibi vabbu buelakit go alodu nul rumlinbun hi regaw tufwum aku."
+  },
+  "apiKey": "6d47730d082db8750d196ff0071f6e1e45cbb7d19774298ceef87ef16874606b",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
