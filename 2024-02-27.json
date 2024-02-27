@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Watson",
+  "age": 31,
+  "address": {
+    "street": "Vehlij Street",
+    "city": "Nedbifnod",
+    "state": "IL",
+    "zip": "55876"
+  },
+  "contact": {
+    "phone": "(626) 324-5234",
+    "servicePhone": "800248822"
+  },
+  "birthday": "1970-06-18T01:10:11.331Z",
+  "ip": "38.39.140.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka anadeal bavi duwem fiwiruf lap we bemapki luicezar gozwiar mofjep leiz. Uga par wapci dazeldep hol oj pif wer jilabe esiwemjin duwiiz og aci pareguwa jem imu. Ilkeg mizeso tabakcem piggomu leid muipudir kun gada jo tu gu irel. Icicebrev vag benines fiwi okovagkin laduovi jit goser adu di ife hu kulkohi. Temonme ca atinona wotso ni liduh dumichij vosji bozirulir foje uklohlak hemunis vokic. Din gekab omvu gokducin bifidi avgalbuz uhpefu hose menubdo bunva rebocva ci iw asafpe tohauc useruar.",
+    "bio": "Umosumjeg puploteh coce zappa ketdeoc felawto fikvo dotuj hur azzozoma ej suut sagufas or izoji. Aco pagore itocufori ejleuz ep towo ipofe borgoz agoguj zunat zeniwib adwi. Isire sacvu ijiemu tujawir goh mopvasa ke ah pappodad unidajaz vu enacuresa."
+  },
+  "apiKey": "fb1b68db8510d203e0b4e6683151058316f82b2f62fadc66be40191b25027194",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
