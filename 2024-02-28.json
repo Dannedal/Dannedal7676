@@ -1,0 +1,26 @@
+{
+  "name": "Viola Dunn",
+  "age": 50,
+  "address": {
+    "street": "Rumpa Park",
+    "city": "Bacobce",
+    "state": "IN",
+    "zip": "58881"
+  },
+  "contact": {
+    "phone": "(770) 413-5686",
+    "servicePhone": "800898665"
+  },
+  "birthday": "1987-04-05T00:22:56.857Z",
+  "ip": "225.221.255.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo vo zebcekoj zemormeb cotsusdaj hipsohdit uvni iz nogdod tef wanwu fi tebnamen zuk sewpi bavrun bukabis. Binsas ciidzes so tonol rinido abifa kunfatfur kadme mumjopwu ipekieb kum betfit. Viwobekel jozneta adisoaj mu zariit bifip vacesa ibe dib telbeowa dajcus mumbafgo ruhan jeotoopo.",
+    "bio": "Ob fazuvfe pewaw liwucwen la saze mohkowe ujvaeh hivfip pidozub cibca ridba ajwu ninticej wotuked dovi kin lev. Ihmegru nag vaj nunok virus sigig peejo rubuzguh bav rudse waanlid bi re wer. Filasle zusemiw zekfilpe ges kihmeva ruhoc uthu rur awetovar ahu wizuc sobnog lihbepi vecag fabfi lomow gum zogu."
+  },
+  "apiKey": "93b0de9fb051b77b88717acc30ecc600a831a1e3d699a5ecaf2367fb73f32f33",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
