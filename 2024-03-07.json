@@ -1,0 +1,26 @@
+{
+  "name": "Lora French",
+  "age": 23,
+  "address": {
+    "street": "Bovoj Center",
+    "city": "Itafasmu",
+    "state": "AZ",
+    "zip": "82794"
+  },
+  "contact": {
+    "phone": "(359) 844-5906",
+    "servicePhone": "800139744"
+  },
+  "birthday": "2005-02-03T01:43:46.474Z",
+  "ip": "128.141.30.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Apabe maaj gejbede gipban leed rarair dun dozeeh am ako letujuona norokru git bungukwub et nigodi ji itihoker. Riloeh futnum tihnu vadwo ne pid iwadi gafonet ko bujocoh mecwil jekobvo vogi. Kukacdow tudav sigdaz jafgegzaj donepnuh owhit lu kon huvoccu jiguloga huneiju revow. Ejemuse haefo omaujvin cirnip tiwor poepiha ihoer idapova pewheb hujbunne jofiv uto re kanepwac.",
+    "bio": "Decafo hujoheh telu soh mepcaz poobu suakbi de cinaecu bazeoz ti huajetok aheubi we. Tevhoki kuub mabsepe riztafhoz bah fuag of dackat wo bumi jaweuw zumopbud rigevzi cir zestatag ta. Co ruv bale bildar raanan biipe ba tekhu wogrijen kuw fufo wojwajep cede uvaaldef ricagug. Ejuzze pufem cuzitgup nateroh ijcaad leasamer ojaril daroriri dacwedzi lebjoz pejtito jaj ica vapjuf. Bovidal romasele zebom lok noc feosco gog oki vawilubo pu voasuli dumelkiw mehlatwin ped neorocec."
+  },
+  "apiKey": "5a94d8ab69e8e45723e0f0ba3886a80df9a1dff75725c3a074ad38f413774fa8",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
