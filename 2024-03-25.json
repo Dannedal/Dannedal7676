@@ -1,0 +1,26 @@
+{
+  "name": "Ola McCoy",
+  "age": 36,
+  "address": {
+    "street": "Honzu Circle",
+    "city": "Tootzo",
+    "state": "MS",
+    "zip": "68076"
+  },
+  "contact": {
+    "phone": "(777) 495-8970",
+    "servicePhone": "800596921"
+  },
+  "birthday": "1969-12-05T19:27:25.610Z",
+  "ip": "111.145.243.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Moetufo re isrov dove vowemoj wo zipga pol unu cebubhum iwubevo vajhipral fuhi puwwaw mucinet hus wim dacimfa. Hez kot ak oc fubulov jamikome wunba zok mos pejwo edpo nob utwapa ruthelgur safoces jihzufuc iputo. Uji odi pam tob walpa hec wocasfaw pepnul ede to fu sabav vih cizkekmu ger. Vi zaugi ibno tomefnoj rakzewso hu ovtedkuv azu jasibtir vu wozive askom huep. Feg bevawmo fibmean ceamveg zunoz abroal lohabtiw ja kondu tivwufho zotuno ke aw boabgi roto neksiige ze tecmijfev. Vujugad fummatin hepubja ewwur ikbuvju gaf javsa ridatju ag bi pe fonzajset.",
+    "bio": "Melvakup owrubma jaevo gahduviw gire wa pefif huj lof du ile nadaz ucuhe fupban haddilsu ir. Hugzu giaj pofov pelmuje upeubu igru weghasi zuhuh bowefe dades pufsu pukfanab jumbeot jewgosow evu so tel sujta. Sehaba cecvejwo tala ore teb apehusi it kekiw ezabovbid sisu kej epugimos foazo umasin."
+  },
+  "apiKey": "64222bcfa90c4c91968106ecf78d6f831a9f63397fdc6904541b887be660d552",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
