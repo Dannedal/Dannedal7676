@@ -1,0 +1,26 @@
+{
+  "name": "Donald Sparks",
+  "age": 56,
+  "address": {
+    "street": "Avelan Drive",
+    "city": "Ignecpod",
+    "state": "SC",
+    "zip": "70527"
+  },
+  "contact": {
+    "phone": "(958) 247-6293",
+    "servicePhone": "800452143"
+  },
+  "birthday": "1994-09-03T04:36:09.839Z",
+  "ip": "17.134.227.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Tocasuwe leh ewasi cab kalikag lug tihukaf fuori ahine na neguskuh sutiwekuc nabho olo maruzafu jozej molrapo fe. Irgoma ka sep guhsa ujwo zamefru rigi biboh fe zohog ecasepoj cuw opmo ku gezu cef. Gaiz loonsa pejwaol sidawot ewsu ucmoaj mof wuwe murig wuujoom ceso ucasu zeawkeh.",
+    "bio": "Kinse gimkinaga omeeze wantoc akawa wugmata carzala viv jauva fub ci sawjomaj rad femor cilarif ropo oh. Jakid nij furesos igrengi ok co tono ogdeldet jo okafi waduhla nenagti acedizod weusfih. Segcah neetlup senfam pas fojus ti zin tem hopsefu iw kugohipa owjevut ibmageba guz nuw wunep il."
+  },
+  "apiKey": "c8b46ef92cee3f7140d721b2d615494e036d8142a41c77da5150930515a75b5b",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
