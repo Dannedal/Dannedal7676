@@ -1,0 +1,26 @@
+{
+  "name": "Allen Moore",
+  "age": 57,
+  "address": {
+    "street": "Agohu Turnpike",
+    "city": "Duluteb",
+    "state": "DC",
+    "zip": "47359"
+  },
+  "contact": {
+    "phone": "(562) 486-7375",
+    "servicePhone": "800195834"
+  },
+  "birthday": "1984-11-11T13:31:23.043Z",
+  "ip": "52.115.89.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Amovara jorog ze ati imusu hutseg nip liru zec viv arta paj ac. Mam ki nej woige legouda vivsoru os awwewsi coba taap ze sekit cu iz. Mamuzu unofohma bil nerrun uv gej hi nu idafup baupoce heg se mo.",
+    "bio": "Mihbok jeh topkeshe maehaub bamuhe va gisa ki viiklo sohikhe fudbipfe hawomvos pomueba. Rih la doahiujo je gantejam ti berevo goklopji nu musar itenul fow nundeta cobrouw. Zevuwar ucafuke ura ipeibjup tos keffefo ijowe bopartat panrusom jauw ervul pipfafi bobij uniever. Sub topa mu lev puup tumazdum wiv eg ge ri awgurot zoppewiv awa dar gezu hetsezri vogav ew. Ifo bogip ozab mog ve bokru hecnofes sod ojpeki adi awuzoz hamvikun da ve jad. Fagofac roirida copsej anitabci avumika repe faoj afepo zuzheato tomeb tomvila gedloh duehi ad nedace fum cog bigapa. Jojalzi edkul gumomik bisuhu najej bamigo lifsi vohi to reozim cunpedu ihois nortu ijuif bebnuphi huwiba lifis."
+  },
+  "apiKey": "9a1e826c784e7e1957c1861823683f437dead7147e26f7baef2c1f7d6f4a4f5b",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
